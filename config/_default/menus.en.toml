@@ -11,40 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "Projects"
+  pageRef = "projects"
   weight = 10
-
 [[main]]
-  name = "Samples"
-  pageRef = "samples"
+  name = "Blog"
+  pageRef = "blog"
   weight = 20
-
 [[main]]
-  name = "Users"
-  pageRef = "users"
+  name = "Publications"
+  pageRef = "publications"
   weight = 30
-
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/jpanther/congo"
+  name = "Books & Resources"
+  pageRef = "books"
   weight = 40
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
 [[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
-
+  name = "Resume"
+  url = "/cv.pdf"
+  weight = 50
 [[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+  name = "Contact"
+  pageRef = "contact"
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

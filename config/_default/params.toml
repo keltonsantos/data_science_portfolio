@@ -14,11 +14,11 @@ enableCodeCopy = true
   name = "Kelton Santos"
   headline = "Machine Learning Engineer · Data Scientist"
   bio = "I build end-to-end ML systems and share what I learn. Interested in NLP, computer vision, and responsible AI. Based in Praia, Cabo Verde."
-  image = "img/avatar.jpg"
+  image = "img.jpg"
   links = [
     { github = "https://github.com/keltonsantos" },
-    { linkedin = "https://linkedin.com/in/keltonsantos" },
-    { email = "mailto:your@email.com" }
+    { linkedin = "https://www.linkedin.com/in/keltongarciasantos/" },
+    { email = "mailto:keltongarciasantos@gmail.com" }
   ]
 
 [article]

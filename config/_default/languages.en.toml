@@ -1,9 +1,9 @@
-locale = "en-AU"
-label = "English (Australia)"
+locale = "en-US"
+label = "English (American)"
 direction = "ltr"
 weight = 1
 
-title = "Kelton Santos | ML & Data Science"
+title = "Kelton Santos"
 copyright = "&copy; 2026 Kelton Santos"
 
 [params]
@@ -14,11 +14,11 @@ copyright = "&copy; 2026 Kelton Santos"
 
 [params.author]
   name = "Kelton Santos"
-  image = "img/avatar.jpg"
+  image = "img.jpg"
   headline = "Machine Learning Engineer · Data Scientist"
   bio = "I build end-to-end ML systems and share what I learn. Interested in NLP, computer vision, and responsible AI. Based in Praia, Cabo Verde."
   links = [
     { github = "https://github.com/keltonsantos" },
-    { linkedin = "https://linkedin.com/in/keltonsantos" },
-    { email = "mailto:your@email.com" },
+    { linkedin = "https://www.linkedin.com/in/keltongarciasantos/" },
+    { email = "mailto:keltongarciasantos@gmail.com" },
   ]

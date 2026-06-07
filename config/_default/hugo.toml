@@ -1,6 +1,6 @@
 baseURL = "https://keltonsantos.github.io/data_science_portfolio/"
 locale = "en-AU"
-title = "Kelton Santos | ML & Data Science"
+title = "Kelton Santos"
 theme = "congo"
 
 [pagination]

@@ -4,35 +4,107 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost:1313/data_science_portfolio/blog/</loc>
+            <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/</loc>
+            <lastmod>2026-05-10T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:1313/es/"
+              href="http://localhost:1313/data_science_portfolio/es/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:1313/ja/"
+              href="http://localhost:1313/data_science_portfolio/ja/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-hans"
-              href="http://localhost:1313/zh-hans/"
+              href="http://localhost:1313/data_science_portfolio/zh-hans/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:1313/de/"
+              href="http://localhost:1313/data_science_portfolio/de/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/"
+              href="http://localhost:1313/data_science_portfolio/"
               />
           </url>
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/blog/understanding-transformer-attention/</loc>
+            <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/projects/</loc>
+            <lastmod>2026-03-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/projects/sentiment-analysis-pipeline/</loc>
+            <lastmod>2026-03-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/about/</loc>
+            <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/books/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/contact/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/publications/</loc>
+          </url>
     
   
 </urlset>

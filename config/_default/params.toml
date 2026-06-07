@@ -1,82 +1,33 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
-
 colorScheme = "congo"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "light"
 autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
-enableImageLazyLoading = true
-enableImageWebp = true
-enableQuicklink = true
-
-# robots = ""
-fingerprintAlgorithm = "sha256"
-
-[header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
-  # logoDark = "img/logo-dark.jpg"
-  showTitle = true
-
-[footer]
-  showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = true
-  showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, custom
+  layout = "profile"
   showRecent = true
-  recentLimit = 5
+  showRecentItems = 6
+
+[author]
+  name = "Kelton Santos"
+  headline = "Machine Learning Engineer · Data Scientist"
+  bio = "I build end-to-end ML systems and share what I learn. Interested in NLP, computer vision, and responsible AI. Based in Praia, Cabo Verde."
+  image = "img/avatar.jpg"
+  links = [
+    { github = "https://github.com/keltonsantos" },
+    { linkedin = "https://linkedin.com/in/keltonsantos" },
+    { email = "mailto:your@email.com" }
+  ]
 
 [article]
   showDate = true
-  showDateUpdated = false
-  showAuthor = true
-  showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
-  editAppendPath = true
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false
-  showWordCount = false
-  showComments = false
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
+  showTags = true
+  showAuthor = true
 
 [list]
-  showBreadcrumbs = true
-  showSummary = false
-  showTableOfContents = true
-  showTaxonomies = false
-  groupByYear = false
-  paginationWidth = 1
-
-[sitemap]
-  excludedKinds = ["taxonomy", "term"]
-
-[taxonomy]
-  showTermCount = true
-
-[fathomAnalytics]
-  # site = "ABC12345"
-
-#[umamiAnalytics]
-#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-#  region = "eu"  # Can be either "eu" or "us"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
+  showSummary = true
+  groupByYear = true

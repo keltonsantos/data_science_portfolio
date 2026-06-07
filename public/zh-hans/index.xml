@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Congo</title>
-		<link>http://localhost:1313/zh-hans/</link>
+		<link>http://localhost:1313/data_science_portfolio/zh-hans/</link>
 		<description>Recent content on Congo</description>
 		<generator>Hugo</generator>
 		<language>zh-Hans</language>
@@ -12,6 +12,6 @@
 			<copyright>&amp;copy; 2024 Congo contributors</copyright>
 		
 		
-			<atom:link href="http://localhost:1313/zh-hans/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/data_science_portfolio/zh-hans/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

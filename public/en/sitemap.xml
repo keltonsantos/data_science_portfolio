@@ -22,13 +22,13 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="zh-hans"
-              href="http://localhost:1313/data_science_portfolio/zh-hans/"
+              hreflang="ja"
+              href="http://localhost:1313/data_science_portfolio/ja/"
               />
             <xhtml:link
               rel="alternate"
-              hreflang="ja"
-              href="http://localhost:1313/data_science_portfolio/ja/"
+              hreflang="zh-hans"
+              href="http://localhost:1313/data_science_portfolio/zh-hans/"
               />
             <xhtml:link
               rel="alternate"
@@ -85,6 +85,23 @@
             <loc>http://localhost:1313/data_science_portfolio/about/</loc>
             <lastmod>2026-01-01T00:00:00+00:00</lastmod>
           </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/data_science_portfolio/projects/mining-process-analysis/</loc>
+            <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
     
   
     

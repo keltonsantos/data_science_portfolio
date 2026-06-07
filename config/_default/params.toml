@@ -1,4 +1,4 @@
-colorScheme = "congo"
+colorScheme = "sapphire"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
@@ -27,6 +27,7 @@ enableCodeCopy = true
   showTableOfContents = true
   showTags = true
   showAuthor = true
+  
 
 [list]
   showSummary = true

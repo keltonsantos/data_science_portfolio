@@ -71,5 +71,40 @@
 				<guid>http://localhost:1313/data_science_portfolio/tags/python/</guid>
 				<description></description>
 			</item>
+			<item>
+				<title>Data Visualization</title>
+				<link>http://localhost:1313/data_science_portfolio/tags/data-visualization/</link>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/data_science_portfolio/tags/data-visualization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>EDA</title>
+				<link>http://localhost:1313/data_science_portfolio/tags/eda/</link>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/data_science_portfolio/tags/eda/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Manufacturing</title>
+				<link>http://localhost:1313/data_science_portfolio/tags/manufacturing/</link>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/data_science_portfolio/tags/manufacturing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pandas</title>
+				<link>http://localhost:1313/data_science_portfolio/tags/pandas/</link>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/data_science_portfolio/tags/pandas/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Seaborn</title>
+				<link>http://localhost:1313/data_science_portfolio/tags/seaborn/</link>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/data_science_portfolio/tags/seaborn/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

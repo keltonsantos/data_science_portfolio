@@ -14,13 +14,13 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="es"
-              href="http://localhost:1313/data_science_portfolio/es/"
+              hreflang="ja"
+              href="http://localhost:1313/data_science_portfolio/ja/"
               />
             <xhtml:link
               rel="alternate"
-              hreflang="ja"
-              href="http://localhost:1313/data_science_portfolio/ja/"
+              hreflang="es"
+              href="http://localhost:1313/data_science_portfolio/es/"
               />
             <xhtml:link
               rel="alternate"

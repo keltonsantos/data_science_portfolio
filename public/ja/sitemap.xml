@@ -24,11 +24,6 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="de"
-              href="http://localhost:1313/data_science_portfolio/de/"
-              />
-            <xhtml:link
-              rel="alternate"
               hreflang="ja"
               href="http://localhost:1313/data_science_portfolio/ja/"
               />

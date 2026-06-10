@@ -4,6 +4,7 @@ date: 2023-11-10
 description: "Exploratory data analysis of a flotation plant process to investigate iron concentrate quality and silica levels using Python and Pandas."
 tags: ["Python", "Pandas", "Seaborn", "EDA", "Manufacturing", "Data Visualization"]
 showTableOfContents: true
+#showSummary: false
 
 ---
 

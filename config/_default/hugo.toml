@@ -2,6 +2,7 @@ baseURL = "https://keltonsantos.github.io/data_science_portfolio/"
 locale = "en-US"
 title = "Kelton Santos"
 theme = "congo"
+summaryLength = 30
 
 [pagination]
   pagerSize = 10

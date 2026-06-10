@@ -18,19 +18,19 @@
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 10
+  weight = 20
 [[main]]
   name = "Blog"
   pageRef = "blog"
-  weight = 20
+  weight = 30
 [[main]]
   name = "Publications"
   pageRef = "publications"
-  weight = 30
+  weight = 40
 [[main]]
   name = "Books & Resources"
   pageRef = "books"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Resume"
@@ -40,7 +40,7 @@
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 60
+  weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

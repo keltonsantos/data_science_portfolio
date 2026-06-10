@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Resume"
-  url = "/cv.pdf"
+  url = "/resume/cv_kelton_santos.pdf"
   weight = 60
 
 [[main]]

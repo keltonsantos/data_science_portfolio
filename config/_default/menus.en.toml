@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+  
+[[main]]
   name = "Projects"
   pageRef = "projects"
   weight = 10
@@ -26,10 +31,12 @@
   name = "Books & Resources"
   pageRef = "books"
   weight = 40
+
 [[main]]
   name = "Resume"
-  url = "/cv.pdf"
-  weight = 50
+  url = "/resume/cv_kelton_santos.pdf"
+  weight = 60
+
 [[main]]
   name = "Contact"
   pageRef = "contact"

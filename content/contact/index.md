@@ -8,9 +8,9 @@ I'm always happy to connect — whether it's about collaboration, research, job 
 
 ## Reach me at
 
-- **Email:** [your@email.com](mailto:your@email.com)
+- **Email:** [keltongarciasantos@gmail.com](mailto:keltongarciasantos@gmail.com)
 - **GitHub:** [github.com/keltonsantos](https://github.com/keltonsantos)
-- **LinkedIn:** [linkedin.com/in/keltonsantos](https://linkedin.com/in/keltonsantos)
+- **LinkedIn:** [linkedin.com/in/keltonsantos](https://linkedin.com/in/keltongarciasantos)
 
 ## Response time
 
